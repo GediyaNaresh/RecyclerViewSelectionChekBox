@@ -1,0 +1,2 @@
+rootProject.name = "SelectRecycler"
+include ':app'
